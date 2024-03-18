@@ -1,1 +1,5 @@
 https://massgrave.dev/
+
+
+irm https://massgrave.dev/get | iex
+
